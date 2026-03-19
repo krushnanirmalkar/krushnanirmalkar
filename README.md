@@ -23,10 +23,20 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,flask,mysql,git,github,linux,vscode" />
-</p>
 
----
+💻 <b>Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,java" /><br><br>
+
+🌐 <b>Web Development</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,flask" /><br><br>
+
+🗄️ <b>Database</b><br><br>
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+
+⚙️ <b>Tools & Platforms</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+</p>
 
 ## 🧩 Skills Snapshot
 ```text
