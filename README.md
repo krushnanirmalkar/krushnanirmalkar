@@ -23,6 +23,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
 
 💻 <b>Languages</b><br><br>
 <img src="https://skillicons.dev/icons?i=python,java" /><br><br>
