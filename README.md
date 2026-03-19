@@ -1,54 +1,34 @@
 <h1 align="center">Namaste 🙏, I'm Krushna Nirmalkar</h1>
 <h3 align="center">🚀 CSE Student | Builder | Exploring Tech & Startups</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krushnanirmalkar&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🧠 About Me
 - 🎓 B.Tech Computer Science Engineering (2nd Year)
-- 💡 Passionate about building **real-world tech solutions**
+- 💡 I enjoy building **real-world solutions using technology**
 - 🚀 Exploring **Web Development, Cloud Computing & Data Systems**
-- 📊 Learning **Python, SQL & Data Structures**
-- 🛠️ Turning ideas into practical projects
+- 📊 Currently focused on **Python, SQL & Data Structures**
+- 🛠️ Strong interest in **projects, startups & problem-solving**
 
 ---
 
 ## ⚡ Current Focus
-- 🌐 Building a **Foundation Website**
-- ☁️ Learning **Cloud Computing Basics**
-- 🧩 Strengthening **coding + problem-solving skills**
-- 💼 Exploring **startup ideas & SaaS products**
+- 🌐 Developing a **Foundation Website (UI + real-world use case)**
+- ☁️ Learning **Cloud Computing Fundamentals**
+- 🧩 Improving **DSA & coding consistency**
+- 💼 Exploring **startup ideas & SaaS-based systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,flask,mysql,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🧩 Skills Overview
+## 🧩 Skills Snapshot
 ```text
 💻 Programming      ███████░░░ 70%
 🌐 Web Development ██████░░░░ 60%
